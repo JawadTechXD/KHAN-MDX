@@ -43,21 +43,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://cdn.ironman.my.id/i/9zd4if.jpg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
-</div>
-
-<div align="center">
-  <img src="https://i.imgur.com/LyHic3i.gif" width="400" style="border-radius: 20px; box-shadow: 0 0 25px #0088ff;"/>
-</div>
-
-<div align="center">
-  <img src="https://github.com/JawadTechXD/KHAN-MDX/blob/main/assets/divider.gif?raw=true" width="100%"/>
-</div>
-<div align="center">
-  <img src="https://github.com/JawadTechXD/KHAN-MDX/blob/main/assets/deployheader.gif?raw=true" width="80%"/>
-</div>
-
 ## 🛰️ Deployment Steps
 
 <div style="background: #000000; border: 1px solid #00ffff; border-radius: 15px; padding: 20px; box-shadow: 0 0 15px #00ffff; margin-bottom: 30px;">
@@ -83,12 +68,8 @@
   
   <div style="height: 10px;"></div>
   
-> **PAIRiNG LINK (02)**
-  <a href='https://jawadmd-pair.onrender.com/pair' target="_blank">
-    <img src='https://img.shields.io/badge/PAIR_CODE_2-FF00FF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
-  </a>
-
   ---
+  
   <p style="color: #aaaaaa; font-size: 12px; margin-top: 10px;">
     <img src="https://github.com/JawadTechXD/KHAN-MDX/blob/main/assets/warning.gif?raw=true" width="15"/> 
     Connection issues may require VPN activation
